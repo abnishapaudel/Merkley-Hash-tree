@@ -56,5 +56,9 @@ So in my implementation the Adler32 checksum is hard-coded into the codebase. Bu
 The rest of the code is written to be agnostic of the hashing algorithm - all it deals with are the bytes of the signature.
 
 
+# References
+https://www.geeksforgeeks.org/introduction-to-merkle-tree/
+https://www.javatpoint.com/blockchain-merkle-tree
+https://en.wikipedia.org/wiki/Merkle_tree
 
 
