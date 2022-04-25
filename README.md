@@ -57,8 +57,8 @@ The rest of the code is written to be agnostic of the hashing algorithm - all it
 
 
 # References
-https://www.geeksforgeeks.org/introduction-to-merkle-tree/
-https://www.javatpoint.com/blockchain-merkle-tree
-https://en.wikipedia.org/wiki/Merkle_tree
+https://www.geeksforgeeks.org/introduction-to-merkle-tree/</br>
+https://www.javatpoint.com/blockchain-merkle-tree</br>
+https://en.wikipedia.org/wiki/Merkle_tree</br>
 
 
